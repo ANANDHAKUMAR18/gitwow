@@ -15,7 +15,12 @@ public class Maths {
 		System.out.println("Hello World");
 		}
 
+
 	//test
+
+	
+	//test2
+
 	public static void main(String[] args){
         Maths obj=new Maths();
 	obj.Info1();
