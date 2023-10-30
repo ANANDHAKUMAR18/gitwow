@@ -21,6 +21,8 @@ public class Maths {
 	
 	//test2
 
+	//stash
+
 	public static void main(String[] args){
         Maths obj=new Maths();
 	obj.Info1();
