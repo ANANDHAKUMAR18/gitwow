@@ -14,6 +14,10 @@ public class Maths {
 
 		System.out.println("Hello World");
 		}
+	public void Infoo(){
+
+		System.out.println("Hello World");
+		}
 
 
 	//test
@@ -32,6 +36,8 @@ public class Maths {
 	obj.Info3();
 
 	obj.Info2();
+	obj.Infoo();
+
 
 }
 }
